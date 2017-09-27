@@ -4,7 +4,7 @@ A web app built using PHP and mySQL that allows users to write their thoughts in
 ## Installing and running the app
 
 ```
-1. git clone git@github.com:kowshik-sundararajan/dairy-app.git
+1. git clone git@github.com:kowshik-sundararajan/diary-app.git
 2. set up your mySQL database
 3. host your php files
 ```
