@@ -1,4 +1,4 @@
-# Dairy
+# Diary
 A web app built using PHP and mySQL that allows users to write their thoughts in a dairy.
 
 ## Installing and running the app
